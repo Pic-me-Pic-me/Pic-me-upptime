@@ -1,20 +1,20 @@
 [
   {
-    "name": "Picme",
+    "name": "Picme main",
     "url": "https://with-picme.com/",
     "icon": "https://icons.duckduckgo.com/ip3/with-picme.com.ico",
-    "slug": "picme",
+    "slug": "picme-main",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   }
 ]
