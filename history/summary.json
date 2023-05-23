@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/with-picme.com.ico",
     "slug": "picme-main",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 126,
-    "timeWeek": 208,
-    "timeMonth": 211,
-    "timeYear": 209,
+    "uptime": "98.97%",
+    "uptimeDay": "48.06%",
+    "uptimeWeek": "92.58%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.97%",
+    "time": 211,
+    "timeDay": 273,
+    "timeWeek": 188,
+    "timeMonth": 215,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-05-22": 0
+      "2023-05-23": 53,
+      "2023-05-22": 695
     }
   }
 ]
